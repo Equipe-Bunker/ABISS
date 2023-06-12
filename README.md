@@ -44,11 +44,11 @@ Abiss é um jogo de Terror e Sobrevivência em 2D, onde o jogador coletará info
 
 # **Documentação GDD:**
 
-[GDD Abiss](https://docs.google.com/document/d/1BnNitLCJvuzx7TMl2nRRkDlvAm3u84Eg/edit?usp=sharing&ouid=108651226990019620528&rtpof=true&sd=true)
++ [GDD Abiss](https://docs.google.com/document/d/1BnNitLCJvuzx7TMl2nRRkDlvAm3u84Eg/edit?usp=sharing&ouid=108651226990019620528&rtpof=true&sd=true)
 
 # **Download:**
-+ Build Atual do projeto.
 
++ [Build Atual do projeto](https://drive.google.com/file/d/101mq92vNNt0zRPmYveGAbvfsNdHOCt5G/view?usp=sharing)
 
 # **Como Jogar?**
 
