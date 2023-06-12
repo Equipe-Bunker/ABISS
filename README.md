@@ -1,8 +1,10 @@
 # Sobre
-
 Este é um projeto acadêmico que está em desenvolvimento desde 03/21, onde a equipe composta por 3 pessoas, aplicava alguns dos conceitos de aprendizado inseridos durante as aulas a fim de criar um projeto coerente e sólido.
 
 > Status: Em desenvolvimento.
+
+>![Trecho Gameplay](https://github.com/Carlosdll22/ABISS/assets/135077890/82dfbd02-9d52-477f-bb07-2ee07bb3c7ae)
+
 
 + Gênero: Terror e sobrevivência, investigativo, 2D.
 + Tema: Experimentos em humanos, Laboratórios.
@@ -13,11 +15,19 @@ Este é um projeto acadêmico que está em desenvolvimento desde 03/21, onde a e
 # História:
 Abiss é um jogo de Terror e Sobrevivência em 2D, onde o jogador coletará informações em um laboratório destruído em busca de sua irmã, solucionará puzzles e enfrentará inimigos, enquanto sofre com uma misteriosa criatura na escuridão.
 
+> ![Nevoa](https://github.com/Carlosdll22/ABISS/assets/135077890/3ddb3ae6-a4bb-4446-9c91-922a1bff89ff)
+
 # Mecânicas:
 
 > ## Tiro:
+> ![Tiro](https://github.com/Carlosdll22/ABISS/assets/135077890/91da5c33-b093-4ade-b509-a14b1286daae)
+
 > ## Correr / Folego:
+> ![Vídeo sem título ‐ Feito com o Clipchamp (4) (1)](https://github.com/Carlosdll22/ABISS/assets/135077890/36b235da-6613-4bef-9ac3-2afa45c0f3ab)
+
 > ## Puzzle:
+> ![Puzzle](https://github.com/Carlosdll22/ABISS/assets/135077890/52af7aae-d6d2-4342-b1b1-78c4b12205e3)
+
 
 
 # Programas Utilizados:
