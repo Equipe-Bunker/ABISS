@@ -7,6 +7,7 @@ Este é um projeto acadêmico que está em desenvolvimento desde 03/21, onde a e
 
 
 
+
 + Gênero: Terror e sobrevivência, investigativo, 2D.
 + Tema: Experimentos em humanos, Laboratórios.
 + Arte: Pixel Arte, anos 90.
