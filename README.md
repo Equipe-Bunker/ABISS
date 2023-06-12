@@ -21,7 +21,7 @@ Abiss é um jogo de Terror e Sobrevivência em 2D, onde o jogador coletará info
 # Mecânicas:
 
 > ## Tiro:
-> <img src="https://github.com/Carlosdll22/ABISS/assets/135077890/91da5c33-b093-4ade-b509-a14b1286daae)
+> <img src="https://github.com/Carlosdll22/ABISS/assets/135077890/91da5c33-b093-4ade-b509-a14b1286daae" width="400" height="220" />
 
 > ## Correr / Folego:
 > <img src="https://github.com/Carlosdll22/ABISS/assets/135077890/36b235da-6613-4bef-9ac3-2afa45c0f3ab" width="400" height="220" />
