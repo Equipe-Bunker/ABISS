@@ -42,6 +42,10 @@ Abiss é um jogo de Terror e Sobrevivência em 2D, onde o jogador coletará info
 > + Reaper Digital Audio.
 > + Piskel.
 
+
+# **Vídeo Apresentação:**
++ [Apresentação Abiss](https://youtu.be/R8U3qJypBmw)
+
 # **Documentação GDD:**
 
 + [GDD Abiss](https://docs.google.com/document/d/1BnNitLCJvuzx7TMl2nRRkDlvAm3u84Eg/edit?usp=sharing&ouid=108651226990019620528&rtpof=true&sd=true)
