@@ -4,7 +4,7 @@ Este é um projeto acadêmico que está em desenvolvimento desde 03/21, onde a e
 > #### Integrantes
 > + carlaodll22@gmail.com
 > + fernandolfontanabr@gmail.com
-> + Vitor.r.costa002@gmail.com
+> + vitor.r.costa002@gmail.com
 
 
 
