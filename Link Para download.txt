@@ -1,0 +1,4 @@
+Link para download também pode ser acessado através do Readme na pagina inicia do git hub.
+
+Download da build atual.
+ https://drive.google.com/file/d/101mq92vNNt0zRPmYveGAbvfsNdHOCt5G/view?usp=sharing
